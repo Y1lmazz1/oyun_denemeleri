@@ -1,6 +1,3 @@
-# Godot-specific ignores
+# Godot 4+ specific ignores
 .godot/
-extended_search_cache/
-android/
-build/
-*.tmp
+/android/

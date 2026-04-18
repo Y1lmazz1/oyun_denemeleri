@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bfh4chvfw52eh"
-path="res://.godot/imported/png-transparent-pixel-art-health-health-angle-computer-programming-medical-care-thumbnail.png-d12be9efca428d6f3a17b19fbbb352ee.ctex"
+uid="uid://dl33fbquunadc"
+path="res://.godot/imported/slime_green.png-fb7107eff8e2ed9c00a043e7e13b26fb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://png-transparent-pixel-art-health-health-angle-computer-programming-medical-care-thumbnail.png"
-dest_files=["res://.godot/imported/png-transparent-pixel-art-health-health-angle-computer-programming-medical-care-thumbnail.png-d12be9efca428d6f3a17b19fbbb352ee.ctex"]
+source_file="res://brackeys_platformer_assets/sprites/slime_green.png"
+dest_files=["res://.godot/imported/slime_green.png-fb7107eff8e2ed9c00a043e7e13b26fb.ctex"]
 
 [params]
 
