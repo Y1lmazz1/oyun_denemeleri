@@ -1,5 +1,4 @@
-﻿# oyun_denemeleri2
-
+﻿
  # oyun_denemeleri 🕹️
 
 Bu repo, oyun geliştirme dünyasına attığım ilk adımları ve öğrendiğim temel mekanikleri denediğim küçük bir başlangıç projesidir.
